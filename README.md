@@ -10,4 +10,6 @@ nodered2.txt is the flow with twitter, the flow send every 60 minutes 4 values
 
 # feinstaub
 
+<img src="http://luftdaten.info/wp-content/uploads/2017/03/feinstaub-sensor.jpg">
+
 <a href="http://luftdaten.info/">http://luftdaten.info/</a>
