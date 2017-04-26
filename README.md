@@ -10,6 +10,9 @@ nodered-mqtt.txt is the flow with mqtt, you can send your values to any dashboar
 nodered-twitter.txt is the flow with twitter, the flow send every 60 minutes 4 values
 
 for using main.py please install depencies
+Hardware they need 
+
+- [Display O-Tron Hat](http://amzn.to/2p3lj7C)
 ```
 pip3 install paho-mqtt
 url https://get.pimoroni.com/displayotron | bash
