@@ -9,7 +9,7 @@ nodered-mqtt.txt is the flow with mqtt, you can send your values to any dashboar
 
 nodered-twitter.txt is the flow with twitter, the flow send every 60 minutes 4 values
 
-for using display.py please install depencies and hardware they need
+for using display.py or display-color.py please install depencies and hardware they need
 
 - [Display O-Tron Hat](http://amzn.to/2p3lj7C)
 ```
