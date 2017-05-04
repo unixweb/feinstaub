@@ -45,7 +45,7 @@ def on_message(client, userdata, msg):  #triggers on an update
         out.writelines(lines)
         out.close()
 
-    if msg.topic.find('/374586/') != -1:  #checks if the topic is the needed one
+    if msg.topic.find('/12345/') != -1:  #checks if the topic is the needed one
         value = str(msg.payload).strip("b")
         value = value.strip("'")
 
