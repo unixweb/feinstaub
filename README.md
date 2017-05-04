@@ -22,9 +22,12 @@ Features of display.py
 - Colour changes Green/Yellow/Orange/Red  if PM25 reached values 10/20/30/40 μg/m3
 - If PM25 reached less then 10.00 the background light goes off
 
+<img src="/PM25-10.jpg">
+<img src="/PM25-40.jpg">
 
 # feinstaub
 
 <img src="http://luftdaten.info/wp-content/uploads/2017/03/feinstaub-sensor.jpg">
+
 
 More Info<a href="http://luftdaten.info/"> http://luftdaten.info/</a>
