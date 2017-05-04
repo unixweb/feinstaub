@@ -17,6 +17,11 @@ pip3 install paho-mqtt
 url https://get.pimoroni.com/displayotron | bash
 ```
 
+Features of display.py
+- if you press Left and right button displays different values
+- Colour changes Green/Yellow/Orange/Red  if PM25 reached values 10/20/30/40 μg/m3
+- If PM25 reached less then 10.00 the background light goes off
+
 
 # feinstaub
 
