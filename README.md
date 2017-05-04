@@ -28,7 +28,8 @@ Features of display.py
 
 # feinstaub
 
-<img src="http://luftdaten.info/wp-content/uploads/2017/03/feinstaub-sensor.jpg">
+<img src="/Luftdaten.jpg">
 
 
+Credits and Copyright by luftdaten.info 
 More Info<a href="http://luftdaten.info/"> http://luftdaten.info/</a>
