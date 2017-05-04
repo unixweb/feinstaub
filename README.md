@@ -33,4 +33,4 @@ Features of display.py
 
 Credits and Copyright by luftdaten.info 
 
-More Info<a href="http://luftdaten.info/"> http://luftdaten.info/</a>
+More Info<a href="http://luftdaten.info/" target="_blank"> http://luftdaten.info/</a>
