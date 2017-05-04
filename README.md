@@ -24,6 +24,7 @@ Features of display.py
 
 <img src="/PM25-10.jpg">
 <img src="/PM25-40.jpg">
+<img src="/TEMP-Display.jpg">
 
 # feinstaub
 
