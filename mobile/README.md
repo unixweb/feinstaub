@@ -28,6 +28,10 @@ Fill field "Server" with your server full-qualifyed-domain-name (FQDN)<br>
 Fill field "Pfad" with the path to the installed "data.php" php-script<br>
 <img src="https://github.com/unixweb/feinstaub/blob/master/mobile/pictures/configuration-feinstaub-sensor.png"><br>
 
+<img src="https://github.com/unixweb/feinstaub/blob/master/mobile/pictures/Node-RED-Flow.png"><br>
+
+
+
 # feinstaub
 
 
