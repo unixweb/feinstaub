@@ -18,10 +18,18 @@ npm install node-red-dashboard
 <br>
 <br>
 
+Configuration Feinstaub-Sensor via Webbrowser http://<IP-Address>/config
+Go down to section "An eigene API senden"
+
+Fill field "Server" with your server full-qualifyed-domain-name (FQDN)<br>
+Fill field "Pfad" with the path to the installed "data.php" php-script<br>
+
 <img src="https://github.com/unixweb/feinstaub/blob/master/mobile/sensor-config-step-1.png">
 <img src="https://github.com/unixweb/feinstaub/blob/master/mobile/configuration-feinstaub-sensor.png">
 
 # feinstaub
+
+
 
 <img src="https://blog.unixweb.de/wp-content/uploads/2017/05/Luftdaten.jpg">
 
