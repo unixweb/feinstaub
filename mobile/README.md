@@ -18,6 +18,8 @@ npm install node-red-dashboard
 <br>
 <br>
 
+# Config Sensor
+
 Configuration Feinstaub-Sensor via Webbrowser http://sensor-ip-address/config
 
 
@@ -28,12 +30,15 @@ Fill field "Server" with your server full-qualifyed-domain-name (FQDN)<br>
 Fill field "Pfad" with the path to the installed "data.php" php-script<br>
 <img src="https://github.com/unixweb/feinstaub/blob/master/mobile/pictures/configuration-feinstaub-sensor.png"><br>
 
+# Node-Red
 
 Configure Node-Red
+
 <img src="https://github.com/unixweb/feinstaub/blob/master/mobile/pictures/Node-RED-Flow.png"><br>
 
+# Access Dashboard
 
-Access to the webfrontvia Webbrowser http://nodered-ip-address:1880/ui
+Access to the dashboard via Webbrowser http://nodered-ip-address:1880/ui
 
 <img src="https://github.com/unixweb/feinstaub/blob/master/mobile/pictures/Node-RED_Dashboard.png">
 
