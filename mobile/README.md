@@ -18,7 +18,7 @@ npm install node-red-dashboard
 <br>
 <br>
 
-Configuration Feinstaub-Sensor via Webbrowser http://<IP-Address>/config
+Configuration Feinstaub-Sensor via Webbrowser http://sensor-ip-address/config
 
 
 <img src="https://github.com/unixweb/feinstaub/blob/master/mobile/sensor-config-step-1.png"><br>
