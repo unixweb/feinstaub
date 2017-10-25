@@ -1,4 +1,5 @@
 <?php
+echo "it works";
 $logURL="sensor.json";
 $logToOrdner="/var/www/htdocs/luftdaten/sensor/".date('Ymd').".json";
 
