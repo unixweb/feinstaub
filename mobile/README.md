@@ -22,9 +22,7 @@ Features of display.py
 - Colour changes Green/Yellow/Orange/Red  if PM25 reached values 10/20/30/40 μg/m3
 - If PM25 reached less then 10.00 the background light goes off
 
-<img src="https://blog.unixweb.de/wp-content/uploads/2017/05/PM25-10.jpg">
-<img src="https://blog.unixweb.de/wp-content/uploads/2017/05/PM25-40.jpg">
-<img src="https://blog.unixweb.de/wp-content/uploads/2017/05/TEMP-Display.jpg">
+<img src="https://github.com/unixweb/feinstaub/blob/master/mobile/configuration-feinstaub-sensor.png">
 
 # feinstaub
 
