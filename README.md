@@ -14,7 +14,7 @@ for using display.py or display-color.py please install depencies and hardware t
 - [Display O-Tron Hat](http://amzn.to/2p3lj7C)
 ```
 pip3 install paho-mqtt
-url https://get.pimoroni.com/displayotron | bash
+curl https://get.pimoroni.com/displayotron | bash
 ```
 
 Features of display.py

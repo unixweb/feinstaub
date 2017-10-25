@@ -1,27 +1,22 @@
-Import with Copy/Paste the nodered-???.txt into the Node-Red as Flow and click Deploy
 
-You must configure the http-node with your IP-Address and Port credentials 
+Install File "data.php" on your webserver, its a simple PHP-Script and Webserver must be installed PHP-Support
 
-and edit the MQTT Node and put in your sensor-id and replace "123456" its only a placeholder
+Check the access and output if works 
+
+http://www.example.com/data.php , if you see a blank website without errors it works
 
 
-nodered-mqtt.txt is the flow with mqtt, you can send your values to any dashboard's
 
-nodered-twitter.txt is the flow with twitter, the flow send every 60 minutes 4 values
 
-for using display.py or display-color.py please install depencies and hardware they need
 
-- [Display O-Tron Hat](http://amzn.to/2p3lj7C)
+
+
+Install Dashboard on the node-red 
 ```
-pip3 install paho-mqtt
-url https://get.pimoroni.com/displayotron | bash
+npm install node-red-dashboard
 ```
 
-Features of display.py
-- if you press Left and right button displays different values
-- Colour changes Green/Yellow/Orange/Red  if PM25 reached values 10/20/30/40 μg/m3
-- If PM25 reached less then 10.00 the background light goes off
-
+<img src="https://github.com/unixweb/feinstaub/blob/master/mobile/sensor-config-step-1.png">
 <img src="https://github.com/unixweb/feinstaub/blob/master/mobile/configuration-feinstaub-sensor.png">
 
 # feinstaub
