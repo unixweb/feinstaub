@@ -3,7 +3,7 @@ Install File "data.php" on your webserver, its a simple PHP-Script and Webserver
 
 Check the access and output if works 
 
-http://www.example.com/data.php , if you see a blank website without errors it works
+http://www.example.com/data.php , if you see a blank website without errors it works<br>
 
 
 
@@ -15,6 +15,8 @@ Install Dashboard on the node-red
 ```
 npm install node-red-dashboard
 ```
+<br>
+<br>
 
 <img src="https://github.com/unixweb/feinstaub/blob/master/mobile/sensor-config-step-1.png">
 <img src="https://github.com/unixweb/feinstaub/blob/master/mobile/configuration-feinstaub-sensor.png">
